@@ -1,0 +1,6 @@
+*
+!*/
+!/.gitignore
+# Configs
+!/syslinux/syslinux.cfg
+
